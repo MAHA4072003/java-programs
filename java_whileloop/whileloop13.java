@@ -1,0 +1,13 @@
+class whileloop13
+{
+	public static void main(String[]args)
+	{
+		int i=1;
+		while(i<=10)
+		{
+			System.out.println("8x"+i+"="+(8*i));			
+			i++;		
+		}
+	}
+}
+	
